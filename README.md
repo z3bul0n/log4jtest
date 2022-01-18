@@ -10,7 +10,7 @@ The vulnerable application and exploit code came from cyberxml (https://github.c
 
 All I've done is codified the environment to make it easy to spin-up and test this delicious exploit.  
 
-__I do not assume any responsibility for adverse effects or malicious actions that may result from the use of the material in this repository.  Full stop.  It is up to **you** to decide if these materials are trustworthy and it is similarly your responsibility to use this information **ethically**.  I merely post these goodies so that reserchers, students, and security professionals can quickly create an environment and test the exploit for themselves.  Seacrest out._
+_I do not assume any responsibility for adverse effects or malicious actions that may result from the use of the material in this repository.  Full stop.  It is up to **you** to decide if these materials are trustworthy and it is similarly your responsibility to use this information **ethically**.  I merely post these goodies so that reserchers, students, and security professionals can quickly create an environment and test the exploit for themselves.  Seacrest out._
 
 # Prerequisites
 
